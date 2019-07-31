@@ -4,7 +4,7 @@ FUNCTION ZGET_CARRIER_NAME.
 *"  IMPORTING
 *"     REFERENCE(CARRID) TYPE  Z_CARRID
 *"----------------------------------------------------------------------
-perform do_it.
+perform get_carrier.
 
 
 ENDFUNCTION.

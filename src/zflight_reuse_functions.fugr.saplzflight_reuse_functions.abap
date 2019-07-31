@@ -13,3 +13,5 @@
 * INCLUDE LZFLIGHT_REUSE_FUNCTIONSE...       " Events
 * INCLUDE LZFLIGHT_REUSE_FUNCTIONSP...       " Local class implement.
 * INCLUDE LZFLIGHT_REUSE_FUNCTIONST99.       " ABAP Unit tests
+
+INCLUDE lzflight_reuse_functions001.
