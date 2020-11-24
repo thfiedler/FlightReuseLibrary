@@ -15,3 +15,7 @@
 * INCLUDE LZFLIGHT_REUSE_FUNCTIONST99.       " ABAP Unit tests
 
 INCLUDE lzflight_reuse_functions001.
+
+INCLUDE lzflight_reuse_functionso01.
+
+INCLUDE lzflight_reuse_functionsi01.
