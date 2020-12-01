@@ -71,6 +71,7 @@
       <RPY_DYFLOW>
        <LINE>PROCESS AFTER INPUT.</LINE>
       </RPY_DYFLOW>
+      <RPY_DYFLOW/>
       <RPY_DYFLOW>
        <LINE>MODULE USER_COMMAND_0666.</LINE>
       </RPY_DYFLOW>
@@ -78,6 +79,7 @@
      <SPACES>
       <item>0</item>
       <item>1</item>
+      <item>0</item>
       <item>0</item>
       <item>0</item>
       <item>1</item>
